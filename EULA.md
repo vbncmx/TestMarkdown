@@ -51,14 +51,6 @@ Subject to the terms, conditions, and limitations set forth in this Agreement, i
 
 (c)	LICENSOR PROVIDES NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH RESPECT TO ANY THIRD PARTY SOFTWARE.
 
-### 6. LICENSE FEES AND PAYMENTS
-
-Licensee shall pay to Licensor all applicable license fees and charges for using Software as set forth in an appropriate Purchase Order, invoice or other purchase documentation. Licensor may charge Licensee interest for any payment that is more than thirty (30) days past due at the rate of one and one-half percent (1.5%) per month or the highest amount allowed by law, whichever is lower.
-
-Licensor shall use commercially reasonable efforts to provide order acknowledgment information and delivery within three (3) business days for all Purchase Orders placed via internet, or within ten (10) business days of receipt for Purchase Orders placed by any other method. Licensor's Customer Service will review and accept or decline any or all Purchase Orders, and no other person is authorized to accept Purchase Orders on behalf of Licensor.
-
-Cancelled Purchase Orders or Product configuration changes requested by Customer shall be subject to acceptance by Licensor.
-
 All sales are final. Licensor does not accept returns unless explicit written or electronic authorization is provided by an authorized representative of Licensor.
 
 ### 7. LIMITED WARRANTY
